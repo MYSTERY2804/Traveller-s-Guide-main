@@ -1,0 +1,27 @@
+{
+  "name": "traveller-s-guide",
+  "version": "1.0.0",
+  "description": "A comprehensive web application built with React to assist travelers in planning their trips, exploring destinations, and managing travel-related information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanvichn/Traveller-s-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanvichn/Traveller-s-Guide/issues"
+  },
+  "homepage": "https://github.com/Tanvichn/Traveller-s-Guide#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "traveller-s-guide": "file:"
+  }
+}
